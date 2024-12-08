@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to my blog! It's barebones, I only put it up recently. But don't worry. That's only temporary.
+Coming soon!
