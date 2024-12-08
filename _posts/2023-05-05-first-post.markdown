@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post!"
 date:   2023-05-05 03:07:19 -0700
-categories: blog school
+categories:
 ---
 I've always wanted to start a blog, but I've never had the nerve to actually do it. It's intimidating. I mean, just being honest, it took me probably 3 hours to get to this point and here's my todo list still:
 
