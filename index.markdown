@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Coming soon!
+coming soon!
