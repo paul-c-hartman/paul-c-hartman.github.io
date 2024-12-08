@@ -306,6 +306,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
+  jekyll-remote-theme
   minima
 
 BUNDLED WITH

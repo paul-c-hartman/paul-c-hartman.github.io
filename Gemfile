@@ -8,7 +8,7 @@ gem 'github-pages', group: :jekyll_plugins
 gem "minima"
 
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
-#   gem "jekyll-feed"
-#   gem "jekyll-remote-theme"
-# end
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-remote-theme"
+end
