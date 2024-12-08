@@ -2,6 +2,7 @@
 layout: post
 title:  "bamboo craft: how to play"
 date:   2024-12-08 01:54:00 -0800
+permalink: /how-to/bamboo-craft/
 categories:
 ---
 welcome! this might seem complicated but i promise--it shouldn't take more than 5 or 10 minutes, max.
