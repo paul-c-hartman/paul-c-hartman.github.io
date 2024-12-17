@@ -10,5 +10,6 @@ jobs:
         uses: PortSwigger/dastardly-github-action@main
         with:
           target-url: 'https://ginandjuice.shop'
+          output-filename: 'dastardly-report.xml'
 
 on: workflow_dispatch
