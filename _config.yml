@@ -36,6 +36,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title # Notice no :output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
