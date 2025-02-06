@@ -23,7 +23,7 @@ for this, you can build your own modpack, but i have also provided two versions 
 to import one of these modpacks:
 - download the pack, it should be a file ending in `.mrpack`.
 - open modrinth launcher.
-- click the 'create profile' button in the bottom left (it's the green square with a plus on it): <br /><br />
+- click the 'create profile' button in the center left (it's the gray plus): <br /><br />
   ![modrinth "create profile" button](/assets/images/bamboo-craft/modrinth-create-profile.png) <br /><br />
 - select the "from file" option: <br /><br />
   ![modrinth "create instance" dialog, "from file" tab](/assets/images/bamboo-craft/modrinth-from-file-dialog.png) <br /><br />
@@ -31,7 +31,7 @@ to import one of these modpacks:
 - you should now see the pack on the home page (and the library page); click on it to find the play button: <br /><br />
   ![modrinth profile, showing "play" button](/assets/images/bamboo-craft/modrinth-profile-play-button.png) <br /><br />
 
-to build your own, you'll need to make sure that your pack includes [modflared](https://modrinth.com/mod/modflared) (also linked above) and [fabric api](https://modrinth.com/mod/fabric-api) to be able to connect.
+to build your own, you'll need to make sure that your pack includes [modflared](https://modrinth.com/mod/modflared) (also linked above) and [fabric api](https://modrinth.com/mod/fabric-api) to be able to connect. The server is currently running Minecraft version ~~1.21.3~~ 1.21.4.
 
 ## playing the game
 once you've got your game running, head over to the multiplayer menu and put in `mc.celibatebamboo.uk`. don't laugh too much about the domain--it was cheap. when you connect, you may see a message flash on the screen about "opening a cloudflare tunnel" or something similar--if you don't see that and it times out, chances are you don't have the mod installed correctly.
