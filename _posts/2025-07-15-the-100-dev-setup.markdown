@@ -24,7 +24,7 @@ after that, select *repository > pull* to download the project files.
 
 ![repository > pull](/assets/images/the-100-dev-setup/ghd-pull-repo.png)
 
-finally, select *repository > show* in your file manager, and make a note of where the folder is.
+finally, select *repository > show in your file manager* and make a note of where the folder is.
 
 ![repository > show in your file manager](/assets/images/the-100-dev-setup/ghd-show-folder.png)
 
