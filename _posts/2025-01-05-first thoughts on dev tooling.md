@@ -20,7 +20,7 @@ as i've already indicated, i feel the primary thing that makes a developer tool 
 
 - a tool can be easy to learn to a developer who is used to using other tools with similar styles, like how so many tools and editors can use vim-style bindings, while simultaneously being incredibly counterintuitive to another developer who hasn't crossed paths with that tool's genre or style before.
 
-- a tool is only effective if it is relevant, and that is doubly true when management decides that it's necessary.
+- a tool's effectiveness is directly proportional to its relevance, and doubly so when management decides that it's necessary.
 
 here's my definitely definitive list of what makes a developer tool good.
 
