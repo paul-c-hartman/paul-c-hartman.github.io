@@ -4,6 +4,7 @@ title:  "a guide to the 100-dev jam"
 date:   2025-07-15 17:30:00 -0700
 categories: dev
 slug: 100-dev-project
+permalink: /100-dev-setup
 ---
 # the 100-dev jam
 hello lovely people! and welcome to the [100-dev jam](https://github.com/Griiimon/100-devs-misc). (here is the [discord](https://discord.gg/mmCFxrrvNz) as well.) this is the definitive guide for how to get set up to participate if you aren't sure what to do. let's get going!
