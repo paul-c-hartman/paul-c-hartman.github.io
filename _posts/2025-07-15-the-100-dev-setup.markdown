@@ -14,22 +14,22 @@ firstly, you'll need to download and install [godot](https://godotengine.org/) i
 ## git
 secondly, you'll need to integrate it with git. if you haven't used git before, we recommend installing and using [github desktop](https://github.com/apps/desktop).
 
-once you have that set up, go to file > clone repository as shown.
+once you have that set up, go to *file > clone repository* as shown.
 
 ![file > clone repository](/assets/images/the-100-dev-setup/ghd-clone-repo.png)
 
-in the "url or username/repository" field, enter `100-Devs-1-Game/Pong-Test-Run` for the test run or `Griiimon/100-devs-misc` for the full project, then press "clone".
+in the *url or username/repository* field, enter `100-Devs-1-Game/Pong-Test-Run` for the test run or `Griiimon/100-devs-misc` for the full project, then press *clone*.
 
-after that, select repository > pull to download the project files.
+after that, select *repository > pull* to download the project files.
 
 ![repository > pull](/assets/images/the-100-dev-setup/ghd-pull-repo.png)
 
-finally, select repository > show in your file manager, and make a note of where the folder is.
+finally, select *repository > show* in your file manager, and make a note of where the folder is.
 
 ![repository > show in your file manager](/assets/images/the-100-dev-setup/ghd-show-folder.png)
 
 # godot again
-now you're ready to open godot! once you have it open, select "import existing project", and select the folder you took a note of in the last step.
+now you're ready to open godot! once you have it open, select *import existing project*, and select the folder you took a note of in the last step.
 
 **before you do anything in godot,** make sure you read the contribution guide in the project folder. there are important steps to take before you start making changes. (if you're setting up for the test run, you may not see it yet--it hasn't been uploaded at the time of writing.)
 
