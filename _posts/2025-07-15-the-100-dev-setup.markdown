@@ -1,51 +1,35 @@
 ---
 layout: post
-title:  "a guide to the 100-dev jam"
+title:  "the 100-dev jam"
 date:   2025-07-15 17:30:00 -0700
 categories: dev
 slug: 100-dev-project
 permalink: /100-dev-setup
 ---
-# the 100-dev jam
 hello lovely people! and welcome to the [100-dev jam](https://github.com/Griiimon/100-devs-misc). (here is the [discord](https://discord.gg/mmCFxrrvNz) as well.) this is the definitive guide for how to get set up to participate if you aren't sure what to do. let's get going!
 
 ## godot
 firstly, you'll need to download and install [godot](https://godotengine.org/) if you haven't already.
 
 ## git
-secondly, you'll need to integrate it with git.
+secondly, you'll need to integrate it with git. if you haven't used git before, we recommend installing and using [github desktop](https://github.com/apps/desktop).
 
-to get started with the project, you'll need to [install git on your system](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). make sure to also [set your username](https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git) and [set your email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git). **make sure the email you use is one that's registered to your github account.**
+once you have that set up, go to file > clone repository as shown.
 
-## download and sync
-after that, select a folder where you'd like your copy of the project to live, and open a terminal in that folder. here's what that looks like on my linux machine:
+![file > clone repository](/assets/images/the-100-dev-setup/ghd-clone-repo.png)
 
-![opening a terminal from folder's context menu on linux](/assets/images/the-100-dev-setup/open-terminal-from-context-menu-linux.png)
+in the "url or username/repository" field, enter `100-Devs-1-Game/Pong-Test-Run` for the test run or `Griiimon/100-devs-misc` for the full project, then press "clone".
 
-here's what it looks like on windows:
+after that, select repository > pull to download the project files.
 
-![opening a terminal from folder's context menu on windows](/assets/images/the-100-dev-setup/open-terminal-from-context-menu-windows.png)
+![repository > pull](/assets/images/the-100-dev-setup/ghd-pull-repo.png)
 
-once you've opened the terminal in that folder, enter one of these commands to download the project (note the trailing period):
+finally, select repository > show in your file manager, and make a note of where the folder is.
 
-- test run: `git clone https://github.com/100-Devs-1-Game/Pong-Test-Run.git .`
-
-- ~~full project:~~ the full project doesn't have a repository yet.
-
-you should get output that looks something like this:
-
-```
-Cloning into '.'...
-remote: Enumerating objects: 18, done.
-remote: Counting objects: 100% (18/18), done.
-remote: Compressing objects: 100% (17/17), done.
-remote: Total 18 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
-Receiving objects: 100% (18/18), 7.24 KiB | 7.24 MiB/s, done.
-Resolving deltas: 100% (4/4), done.
-```
+![repository > show in your file manager](/assets/images/the-100-dev-setup/ghd-show-folder.png)
 
 # godot again
-now you're ready to open godot! once you have it open, select "import existing project", and select the folder you chose earlier.
+now you're ready to open godot! once you have it open, select "import existing project", and select the folder you took a note of in the last step.
 
 **before you do anything in godot,** make sure you read the contribution guide in the project folder. there are important steps to take before you start making changes. (if you're setting up for the test run, you may not see it yet--it hasn't been uploaded at the time of writing.)
 
