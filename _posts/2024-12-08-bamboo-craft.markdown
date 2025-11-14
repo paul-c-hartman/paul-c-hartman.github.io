@@ -18,20 +18,11 @@ you've already downloaded mojang's launcher to play the game in the first place,
 you can download the launcher from the link above and install it, or use a different launcher if you prefer.
 
 ## installing modflared
-for this, you can build your own modpack, but i have also provided two versions you can just import and use: [barebones](/assets/dl/bamboo-craft/barebones.mrpack) (no gameplay difference from vanilla) and [lightly-modded](/assets/dl/bamboo-craft/lightly-modded.mrpack) (has some quality-of-life mods). i recommend you use one of these as building your own may pull you down a rabbit hole/take a lot of time.
+to connect, you'll need to make sure that your pack includes these mods:
+- [modflared](https://modrinth.com/mod/modflared) (also linked above)
+- [fabric api](https://modrinth.com/mod/fabric-api)
 
-to import one of these modpacks:
-- download the pack, it should be a file ending in `.mrpack`.
-- open modrinth launcher.
-- click the 'create profile' button in the center left (it's the gray plus): <br /><br />
-  ![modrinth "create profile" button](/assets/images/bamboo-craft/modrinth-create-profile.png) <br /><br />
-- select the "from file" option: <br /><br />
-  ![modrinth "create instance" dialog, "from file" tab](/assets/images/bamboo-craft/modrinth-from-file-dialog.png) <br /><br />
-- drag the file onto the dialog box or press "import from file" and navigate to it.
-- you should now see the pack on the home page (and the library page); click on it to find the play button: <br /><br />
-  ![modrinth profile, showing "play" button](/assets/images/bamboo-craft/modrinth-profile-play-button.png) <br /><br />
-
-to build your own, you'll need to make sure that your pack includes [modflared](https://modrinth.com/mod/modflared) (also linked above) and [fabric api](https://modrinth.com/mod/fabric-api) to be able to connect. The server is currently running Minecraft version ~~1.21.3~~ 1.21.4.
+to be able to connect. The server is currently running Minecraft version ~~1.21.3~~ ~~1.21.4~~ 1.21.10.
 
 ## playing the game
 once you've got your game running, head over to the multiplayer menu and put in `mc.celibatebamboo.uk`. don't laugh too much about the domain--it was cheap. when you connect, you may see a message flash on the screen about "opening a cloudflare tunnel" or something similar--if you don't see that and it times out, chances are you don't have the mod installed correctly.
@@ -43,6 +34,4 @@ once you've got your game running, head over to the multiplayer menu and put in 
 <br />
 
 # problems?
-if you have any problems, first wait a couple minutes and try again; i'm not the best at server maintenance so i may have just accidentally turned off the server or some other nincompoopery.
-
-if that doesn't work then please contact me. you should have my number if nothing else and my email is listed at the bottom of this page. i do check that address a few times a month so i might even see it if you email me.
+if you have any problems,  please contact me. you should have my number if nothing else and my email is listed at the bottom of this page. i do check that address a few times a month so i might even see it if you email me. (that's a joke :)
